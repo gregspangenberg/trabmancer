@@ -1,7 +1,8 @@
 
 # don't include specific folders used during development only
 data/
-
+analysis/
+experiment/
 
 # don't include temp files 
 *.tmp
