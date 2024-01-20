@@ -1,3 +1,5 @@
+# don't include image folders
+img/
 
 # don't include specific folders used during development only
 data/
